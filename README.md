@@ -1,6 +1,7 @@
 # README
 
 0. Clone this repo
+0. Export your Dresssed theme key: `export DRESSSED_KEY=<put your key here>`
 0. `bundle install`
 0. `bundle exec rake db:create db:migrate`
 0. `bin/rails s`
