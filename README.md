@@ -7,3 +7,8 @@
 0. `bin/rails s`
 
 Then visit `http://localhost:3000`. See the main app has `customers` scaffold. See that there's an engine mounted under `/userengine`. See that there's a link to the user engine from the main app root index.
+
+
+### Don't forget to check out Rapid Rails Themes
+
+[Rapid Rails Themes](https://rapidrailsthemes.com)
